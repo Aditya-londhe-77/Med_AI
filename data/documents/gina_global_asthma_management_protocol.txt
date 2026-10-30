@@ -1,0 +1,19 @@
+# Global Initiative for Asthma (GINA) Management & Prevention Protocol
+
+## Asthma Definition & Diagnostic Triad
+Asthma is a heterogeneous disease, usually characterized by chronic airway inflammation. It is defined by the clinical history of respiratory symptoms such as wheeze, shortness of breath, chest tightness, and cough that vary over time and in intensity, together with variable expiratory airflow limitation.
+
+## Diagnostic Confirmation
+Demonstration of excessive variability in lung function:
+- Positive bronchodilator reversibility test: Increase in FEV1 of > 12% and > 200 mL after administration of 200-400 mcg albuterol/salbutamol.
+- Excessive diurnal variability in peak expiratory flow (PEF > 10% in adults).
+- Significant increase in lung function (FEV1 > 12% and > 200 mL) after 4 weeks of anti-inflammatory controller therapy.
+
+## Stepwise Management Tracks (GINA 2024-2026)
+### Track 1: Preferred Controller and Reliever Strategy
+- Low-dose Inhaled Corticosteroid (ICS) - Formoterol as both maintenance and as-needed reliever.
+- Rationale: Using an ICS-formoterol combination as a reliever dramatically reduces the risk of severe exacerbations requiring systemic corticosteroids compared to short-acting beta2-agonist (SABA) alone.
+- Step 1-2: As-needed low-dose ICS-formoterol for symptom relief.
+- Step 3: Low-dose maintenance ICS-formoterol + as-needed low-dose ICS-formoterol.
+- Step 4: Medium-dose maintenance ICS-formoterol + as-needed reliever.
+- Step 5: Add-on phenotypic assessment (e.g., anti-IgE, anti-IL5/5R, anti-IL4R biologics, or LAMA) and high-dose maintenance.

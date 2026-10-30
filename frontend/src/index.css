@@ -1,0 +1,105 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* AI_Based_Strategic_Intelligence_Assistant_Medical_AI Theme (Light Pink Healthcare UI) */
+    /* Background: Soft comforting light pink */
+    --background: 340 70% 97%;
+    /* Main text: #29243A */
+    --foreground: 253 23% 19%;
+    
+    /* Card: Crisp pure white with soft pink-tinted border */
+    --card: 0 0% 100%;
+    --card-foreground: 253 23% 19%;
+    
+    --popover: 0 0% 100%;
+    --popover-foreground: 253 23% 19%;
+    
+    /* Primary Purple: #7652D6 */
+    --primary: 256 62% 58%;
+    --primary-foreground: 0 0% 100%;
+    
+    /* Deep Purple: #4B2B91 */
+    --deep-purple: 259 54% 37%;
+    
+    /* Pink Accent: #E879B9 */
+    --pink-accent: 325 69% 69%;
+    
+    /* Pale Pink: #FFF0F5 */
+    --pale-pink: 340 100% 97%;
+    
+    /* Lavender: #F3EEFF */
+    --lavender: 260 100% 97%;
+    
+    /* Secondary surface: Soft Pink */
+    --secondary: 340 60% 96%;
+    --secondary-foreground: 325 60% 30%;
+    
+    /* Muted Text / Accents: #777187 */
+    --muted: 334 30% 95%;
+    --muted-foreground: 256 9% 49%;
+    
+    /* Accent: Pale Pink pill / highlights */
+    --accent: 340 100% 96%;
+    --accent-foreground: 325 69% 45%;
+    
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 100%;
+    
+    /* Borders: Soft pink-tinted #F3D9E6 */
+    --border: 340 40% 90%;
+    --input: 340 40% 90%;
+    --ring: 325 69% 69%;
+    --radius: 1rem;
+  }
+
+  .dark {
+    --background: 255 24% 11%;
+    --foreground: 260 50% 96%;
+    --card: 255 22% 14%;
+    --card-foreground: 260 50% 96%;
+    --popover: 255 22% 14%;
+    --popover-foreground: 260 50% 96%;
+    --primary: 256 70% 68%;
+    --primary-foreground: 255 25% 10%;
+    --secondary: 255 20% 18%;
+    --secondary-foreground: 260 60% 94%;
+    --muted: 255 18% 18%;
+    --muted-foreground: 256 15% 68%;
+    --accent: 325 45% 25%;
+    --accent-foreground: 325 80% 88%;
+    --destructive: 0 72% 58%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 255 18% 22%;
+    --input: 255 18% 25%;
+    --ring: 256 70% 68%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply text-foreground font-sans antialiased;
+    background-color: #FFF0F5;
+    background-image: radial-gradient(at 0% 0%, #FFE4EF 0, transparent 55%),
+                      radial-gradient(at 100% 0%, #FCE7F3 0, transparent 50%),
+                      radial-gradient(at 50% 100%, #FFF5F9 0, transparent 65%);
+    background-attachment: fixed;
+    min-height: 100vh;
+    font-family: "Inter", "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+
+  .dark body {
+    background-color: #1a1625;
+    background-image: radial-gradient(at 0% 0%, hsl(259 40% 14%) 0, transparent 50%),
+                      radial-gradient(at 100% 0%, hsl(325 30% 16%) 0, transparent 50%);
+    background-attachment: fixed;
+  }
+
+  button, input, select, textarea { font: inherit; }
+  ::selection { background: hsl(var(--primary) / 0.18); color: hsl(var(--primary)); }
+}

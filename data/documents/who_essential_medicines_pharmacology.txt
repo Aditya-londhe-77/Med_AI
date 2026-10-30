@@ -1,0 +1,18 @@
+# World Health Organization (WHO) Model List of Essential Medicines & Pharmacological Reference
+
+## Principles of Essential Pharmacotherapy
+Essential medicines satisfy the priority health care needs of a population. Selection is guided by disease prevalence, public health relevance, evidence on clinical efficacy and safety, and comparative cost-effectiveness.
+
+## Key Pharmacological Drug Classes & Monographs
+
+### 1. Statins / HMG-CoA Reductase Inhibitors (Atorvastatin, Simvastatin)
+- Mechanism of Action: Competitive inhibition of 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase, the rate-limiting enzyme in hepatic cholesterol biosynthesis. Upregulates LDL receptors, accelerating plasma clearance of atherogenic lipoproteins.
+- Adverse Effects: Dose-dependent myopathy, myalgia, and rarely rhabdomyolysis. Asymptomatic elevation in hepatic aminotransferases (ALT/AST).
+- Drug Interactions: Concurrent administration with strong CYP3A4 inhibitors (clarithromycin, itraconazole, protease inhibitors) significantly elevates statin systemic exposure.
+
+### 2. Antithrombotic Agents (Aspirin, Clopidogrel)
+- Acetylsalicylic acid (Aspirin): Irreversible acetylation of cyclooxygenase-1 (COX-1), blocking thromboxane A2 synthesis in platelets for their 7-10 day lifespan.
+- Clopidogrel: Prodrug requiring bioactivation by CYP2C19 to selectively and irreversibly inhibit P2Y12 adenosine diphosphate (ADP) chemoreceptors on platelet membranes.
+
+### 3. Antimicrobial Stewardship
+- Beta-lactams: Inhibit bacterial cell wall synthesis by binding penicillin-binding proteins (PBPs). Cross-hypersensitivity between penicillins and early-generation cephalosporins occurs in approximately 1-3% of patients.

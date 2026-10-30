@@ -1,0 +1,19 @@
+# American Diabetes Association (ADA) Standards of Medical Care in Diabetes
+
+## Clinical Diagnostic Criteria
+Diabetes mellitus is diagnosed through demonstration of any of the following venous plasma thresholds, confirmed with a repeat test on a separate day in the absence of unequivocal symptomatic hyperglycemia:
+1. Fasting Plasma Glucose (FPG) >= 126 mg/dL (7.0 mmol/L) following at least 8 hours of caloric fast.
+2. 2-Hour Plasma Glucose >= 200 mg/dL (11.1 mmol/L) during a standardized 75-g Oral Glucose Tolerance Test (OGTT).
+3. Glycated Hemoglobin (HbA1c) >= 6.5% (48 mmol/mol) performed using a certified NGSP assay.
+4. Random venous plasma glucose >= 200 mg/dL (11.1 mmol/L) in an individual presenting with classic symptoms of hyperglycemia (polyuria, polydipsia, unexplained weight loss) or hyperglycemic crisis.
+
+## First-Line Pharmacological Management
+Metformin remains the foundational first-line pharmacological agent for Type 2 Diabetes unless specific contraindications are present. 
+- Mechanism: Decreases hepatic gluconeogenesis via AMPK pathway activation and increases peripheral insulin-mediated glucose utilization.
+- Dosing Context: Initial educational titration starts at 500 mg daily with meals to mitigate gastrointestinal intolerance, titrating toward a target of 1,000 mg twice daily.
+- Renal Thresholds: Monitor estimated Glomerular Filtration Rate (eGFR). Metformin is contraindicated if eGFR < 30 mL/min/1.73 m². Dose reduction by 50% is advised if eGFR falls between 30-44 mL/min/1.73 m².
+- Boxed Warning: Lactic acidosis risk in tissue hypoperfusion or severe renal impairment. Withhold temporarily prior to iodinated radiocontrast procedures.
+
+## Cardiovascular & Renal Comorbidity Stratification
+For patients with established Atherosclerotic Cardiovascular Disease (ASCVD), heart failure (HF), or chronic kidney disease (CKD):
+- Incorporate SGLT2 inhibitors (e.g., Empagliflozin, Dapagliflozin) or GLP-1 receptor agonists (e.g., Semaglutide, Dulaglutide) with proven cardiovascular benefit independently of baseline HbA1c.

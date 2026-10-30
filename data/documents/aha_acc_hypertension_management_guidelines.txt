@@ -1,0 +1,18 @@
+# American Heart Association / American College of Cardiology (AHA/ACC) Hypertension Guidelines
+
+## Blood Pressure Classification in Adults
+- Normal: Systolic < 120 mmHg AND Diastolic < 80 mmHg.
+- Elevated: Systolic 120-129 mmHg AND Diastolic < 80 mmHg.
+- Stage 1 Hypertension: Systolic 130-139 mmHg OR Diastolic 80-89 mmHg.
+- Stage 2 Hypertension: Systolic >= 140 mmHg OR Diastolic >= 90 mmHg.
+- Hypertensive Crisis: Systolic > 180 mmHg and/or Diastolic > 120 mmHg, requiring immediate clinical triage for acute target organ damage.
+
+## Pharmacological Principles & Drug Classes
+First-line pharmacological agents include:
+1. Thiazide Diuretics (e.g., Chlorthalidone, Hydrochlorothiazide): Reduces intravascular volume and peripheral vascular resistance. Monitor electrolytes for hypokalemia and hyponatremia.
+2. ACE Inhibitors (e.g., Lisinopril, Enalapril): Inhibit angiotensin-converting enzyme, blocking conversion of angiotensin I to angiotensin II. First-line for diabetic nephropathy and proteinuria. Boxed warning for teratogenicity. Risk of angioedema and hyperkalemia.
+3. Angiotensin Receptor Blockers (ARBs, e.g., Losartan, Valsartan): Direct AT1 receptor blockade. Alternative in patients who develop bradykinin-mediated dry cough on ACE inhibitors.
+4. Calcium Channel Blockers (CCBs, e.g., Amlodipine): Induce vascular smooth muscle relaxation and peripheral vasodilation. Common side effect: peripheral dependent pedal edema.
+
+## Combination Therapy Recommendations
+For adults with Stage 2 hypertension and an average blood pressure more than 20/10 mmHg above target, initiation of dual-agent antihypertensive therapy of different classes is recommended (e.g., CCB + ACEi or ARB + thiazide).

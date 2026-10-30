@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Docker
+docker-compose.override.yml
+
+# Data (large files)
+data/chroma_db/
+data/neo4j/
+chroma_db/
+backend/chroma_db/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# GCP
+service-account-key.json
+gcp-key.json
+backend/gcp-key.json
+
+# Extracted text files (intermediate)
+*.txt
+!README.txt
+!requirements.txt
+!backend/requirements.txt
+!data/documents/*.txt
